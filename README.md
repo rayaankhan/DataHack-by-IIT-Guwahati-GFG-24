@@ -11,11 +11,6 @@ ROC AUC scores have been calculated on the validation set and are being displaye
 
 Proper comments in the code is given for better readability and understanding the idea behind the solution.
 
-## Table of Contents
-1. [Description](#description)
-2. [Technologies Used](#technologies-used)
-3. [Installation](#installation)
-
 ## Technologies Used
 - Programming Languages: Python
 - Libraries: TensorFlow, Pandas, Numpy, Sk-Learn, AUC
