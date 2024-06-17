@@ -1,7 +1,9 @@
 # DataHack-by-IIT-Guwahati-GFG-24
 This repository is for the submission for the Hackathon by GeeksForGeeks under the Summer Analytics course from IIT-G '24
 
-# Project Title
+### Checking purpose
+- Code: `hackathon.ipynb`
+- Output CSV: `submission.csv`
 
 ## Overview
 For this problem, I have used sequential Neural Network. In this NN, I have used 2 hidden layers, one input later and one output layer. ReLU is used as activation function. 
